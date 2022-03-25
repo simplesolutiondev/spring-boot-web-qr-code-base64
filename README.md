@@ -1,1 +1,1 @@
-# spring-boot-web-qr-code-base64
+# Spring Boot Web Generate and Display QR Code as Base64 String
